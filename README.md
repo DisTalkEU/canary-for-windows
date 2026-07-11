@@ -1,6 +1,6 @@
 # **DisTalk Canary – Windows App**
 
-DisTalk Canary ist eine native Windows-App, die das Web-Interface von [DisTalk Canary](https://canary.distalk.eu) in eine echte App-Erfahrung verwandelt. Es nutzt volle Windows-Integration. DisTalk Canary ist eine Testplatform, wo neue Features zu finden sind und diese auch vorab testen zu können und uns ein Feedback geben zu können!
+DisTalk Canary ist eine native Windows-App, die das Web-Interface von [DisTalk Canary](https://canary.distalk.app) in eine echte App-Erfahrung verwandelt. Es nutzt volle Windows-Integration. DisTalk Canary ist eine Testplatform, wo neue Features zu finden sind und diese auch vorab testen zu können und uns ein Feedback geben zu können!
 
 ---
 
